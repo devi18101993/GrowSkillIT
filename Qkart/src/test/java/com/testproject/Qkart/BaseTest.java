@@ -29,8 +29,9 @@ public class BaseTest
 		
 		EdgeOptions options = new EdgeOptions();
 		options.addArguments("--start-maximized");
-		options.addArguments("--remote-allow-orgins=*");
-		
+		options.addArguments("--headless=new");
+		options.addArguments("--disable-gpu");
+		options.addArguments("--remote-allow-origins=*");
 		driver = new EdgeDriver(options);
 		
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
