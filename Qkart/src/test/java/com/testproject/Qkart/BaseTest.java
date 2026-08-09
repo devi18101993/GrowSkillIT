@@ -28,9 +28,11 @@ public class BaseTest
 		System.setProperty("webdriver.edge.driver", EDGE_DRIVER_PATH);
 		
 		EdgeOptions options = new EdgeOptions();
-		options.addArguments("--start-maximized");
-		options.addArguments("--remote-allow-orgins=*");
-		
+		options.addArguments("--headless=new");
+		options.addArguments("--window-size=1920,1080");
+		options.addArguments("--disable-gpu");
+		options.addArguments("--no-sandbox");
+		options.addArguments("--disable-dev-shm-usage");
 		driver = new EdgeDriver(options);
 		
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
