@@ -1,49 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2026-08-01T21:07:12 IST" name="Default suite" finished-at="2026-08-01T21:07:21 IST" duration-ms="8897">
+  <suite started-at="2026-08-09T20:45:31 IST" name="Default suite" finished-at="2026-08-09T20:46:39 IST" duration-ms="68457">
     <groups>
     </groups>
-    <test started-at="2026-08-01T21:07:12 IST" name="Default test" finished-at="2026-08-01T21:07:21 IST" duration-ms="8897">
-      <class name="com.testproject.Qkart.Class3_SearchValidationTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.testproject.Qkart.Class3_SearchValidationTest@1d2adfbe]" started-at="2026-08-01T21:07:12 IST" name="setup" finished-at="2026-08-01T21:07:15 IST" duration-ms="2997" status="PASS">
+    <test started-at="2026-08-09T20:45:31 IST" name="Default test" finished-at="2026-08-09T20:46:39 IST" duration-ms="68457">
+      <class name="com.testproject.Qkart.Class5_AutomationScenarios">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.testproject.Qkart.Class5_AutomationScenarios@8f4ea7c]" started-at="2026-08-09T20:45:31 IST" name="setup" finished-at="2026-08-09T20:45:34 IST" duration-ms="2975" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="verifyPageTitle()[pri:0, instance:com.testproject.Qkart.Class3_SearchValidationTest@1d2adfbe]" started-at="2026-08-01T21:07:15 IST" name="verifyPageTitle" finished-at="2026-08-01T21:07:15 IST" duration-ms="31" status="PASS">
+        <test-method signature="verifyQkartAutomationScenarios()[pri:0, instance:com.testproject.Qkart.Class5_AutomationScenarios@8f4ea7c]" started-at="2026-08-09T20:45:34 IST" name="verifyQkartAutomationScenarios" finished-at="2026-08-09T20:46:39 IST" duration-ms="64944" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- verifyPageTitle -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testproject.Qkart.Class3_SearchValidationTest@1d2adfbe]" started-at="2026-08-01T21:07:15 IST" name="teardown" finished-at="2026-08-01T21:07:15 IST" duration-ms="386" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.testproject.Qkart.Class3_SearchValidationTest@1d2adfbe]" started-at="2026-08-01T21:07:15 IST" name="setup" finished-at="2026-08-01T21:07:18 IST" duration-ms="2318" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="verifySearchPlaceHolder()[pri:0, instance:com.testproject.Qkart.Class3_SearchValidationTest@1d2adfbe]" started-at="2026-08-01T21:07:18 IST" name="verifySearchPlaceHolder" finished-at="2026-08-01T21:07:18 IST" duration-ms="242" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifySearchPlaceHolder -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testproject.Qkart.Class3_SearchValidationTest@1d2adfbe]" started-at="2026-08-01T21:07:18 IST" name="teardown" finished-at="2026-08-01T21:07:18 IST" duration-ms="356" status="PASS">
+        </test-method> <!-- verifyQkartAutomationScenarios -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testproject.Qkart.Class5_AutomationScenarios@8f4ea7c]" started-at="2026-08-09T20:46:39 IST" name="teardown" finished-at="2026-08-09T20:46:39 IST" duration-ms="475" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.testproject.Qkart.Class3_SearchValidationTest@1d2adfbe]" started-at="2026-08-01T21:07:18 IST" name="setup" finished-at="2026-08-01T21:07:20 IST" duration-ms="2114" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- setup -->
-        <test-method signature="verifyURL()[pri:0, instance:com.testproject.Qkart.Class3_SearchValidationTest@1d2adfbe]" started-at="2026-08-01T21:07:20 IST" name="verifyURL" finished-at="2026-08-01T21:07:20 IST" duration-ms="26" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- verifyURL -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.testproject.Qkart.Class3_SearchValidationTest@1d2adfbe]" started-at="2026-08-01T21:07:20 IST" name="teardown" finished-at="2026-08-01T21:07:21 IST" duration-ms="346" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- teardown -->
-      </class> <!-- com.testproject.Qkart.Class3_SearchValidationTest -->
+      </class> <!-- com.testproject.Qkart.Class5_AutomationScenarios -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

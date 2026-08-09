@@ -15,7 +15,6 @@ public class Class1_UIValidationTest extends BaseTest
 		Assert.assertTrue(loginButton.isEnabled(), "Login button is enabled and clickable");
 		
 		System.out.println("Login button validation test is completed");
-		System.out.println("Maven Check 1");
 	}
 	
 	@Test

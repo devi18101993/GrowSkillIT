@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.testproject.Qkart.Class3_SearchValidationTest">
+      <class name="com.testproject.Qkart.Class5_AutomationScenarios">
         <methods>
           <include name="setup"/>
           <include name="teardown"/>
-          <include name="verifySearchPlaceHolder"/>
+          <include name="verifyQkartAutomationScenarios"/>
         </methods>
-      </class> <!-- com.testproject.Qkart.Class3_SearchValidationTest -->
+      </class> <!-- com.testproject.Qkart.Class5_AutomationScenarios -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
