@@ -1,0 +1,6 @@
+# Croma data-driven test inputs (TS-01 search / TS-02 brand filter / TS-04 price)
+# Format: searchTerm,expectedKeyword,brands (pipe-separated),topN
+# Lines starting with # and blank lines are ignored by CromaSearchTest's reader.
+Refrigerator,refrigerator,Samsung|LG|Whirlpool,10
+Washing Machine,washing machine,Samsung|LG|Bosch,10
+Air Conditioner,air conditioner,LG|Voltas|Daikin,10
