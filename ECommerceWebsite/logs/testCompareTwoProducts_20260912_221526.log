@@ -1,0 +1,8 @@
+[2026-09-12 22:15:26.441] ===== START TEST: testCompareTwoProducts =====
+[2026-09-12 22:15:43.326] Dismissed popup via selector: .MuiDialog-container .icon.icon-close
+[2026-09-12 22:16:04.625] Marked product 1 for comparison.
+[2026-09-12 22:16:04.766] Marked product 2 for comparison.
+[2026-09-12 22:16:05.200] Screenshot captured: screenshots\COMPARE_selected_20260912_221605.png
+[2026-09-12 22:16:36.759] Screenshot captured: screenshots\COMPARE_view_20260912_221636.png
+[2026-09-12 22:16:36.759] Comparison verified for 2 products.
+[2026-09-12 22:16:36.761] ===== END TEST: testCompareTwoProducts (PASSED) =====

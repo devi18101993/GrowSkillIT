@@ -1,0 +1,5 @@
+[2026-09-12 22:11:37.307] ===== START TEST: testCheckoutReachesPaymentGate =====
+[2026-09-12 22:11:54.267] Dismissed popup via selector: .MuiDialog-container .icon.icon-close
+[2026-09-12 22:14:14.057] Screenshot captured: screenshots\CHECKOUT_gate_20260912_221414.png
+[2026-09-12 22:14:14.058] Checkout reached the payment/login gate as expected.
+[2026-09-12 22:14:14.060] ===== END TEST: testCheckoutReachesPaymentGate (PASSED) =====

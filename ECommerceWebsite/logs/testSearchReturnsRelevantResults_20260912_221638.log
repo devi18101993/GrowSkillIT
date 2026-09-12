@@ -1,0 +1,16 @@
+[2026-09-12 22:16:38.557] ===== START TEST: testSearchReturnsRelevantResults =====
+[2026-09-12 22:16:55.809] Dismissed popup via selector: .MuiDialog-container .icon.icon-close
+[2026-09-12 22:17:15.930] TS-01 searching for 'Refrigerator', expecting keyword 'refrigerator'
+[2026-09-12 22:17:17.386] Screenshot captured: screenshots\TS01_search_Refrigerator_20260912_221717.png
+[2026-09-12 22:17:17.417]   result[0] = Croma 84 Litres 2 Star Direct Cool Single Door Refrigerator with Anti Fungal Gasket (Grey)
+[2026-09-12 22:17:17.430]   result[1] = Croma 185 Litres 2 Star Direct Cool Single Door Refrigerator with Anti Fungal Gasket (Wine Floral)
+[2026-09-12 22:17:17.442]   result[2] = Croma 84 Litres 2 Star Direct Cool Single Door Refrigerator with Anti Fungal Gasket (Black)
+[2026-09-12 22:17:17.452]   result[3] = Croma 215 Litres 2 Star Direct Cool Single Door Refrigerator with Anti Fungal Gasket ( Criss Cross Metallic Grey)
+[2026-09-12 22:17:17.462]   result[4] = LG 251 Litres 2 Star Frost Free Double Door Refrigerator with Inverter Compressor (GLT2526WWDS, Dazzle Steel) (2026 Model)
+[2026-09-12 22:17:17.855]   result[5] = Haier 240 Litres 1 Star Frost Free Double Door Refrigerator with 200% Faster Ice Maker (HRF-2901EBSA-P, Brushline Silver) (2026 Model)
+[2026-09-12 22:17:17.887]   result[6] = Samsung RR20 183 Litres 3 Star Direct Cool Single Door Refrigerator with Anti Bacterial Gasket (RR20H2723S8/NL, Elegant Inox) (2026 Model)
+[2026-09-12 22:17:17.901]   result[7] = Croma 45 Litres 2 Star Direct Cool Single Door Mini Refrigerator with Anti Fungal Gasket (Gray)
+[2026-09-12 22:17:17.915]   result[8] = Blue Star G Series 45 Litres 2 Star Direct Cool Single Door Mini Refrigerator with Reversible Door (MR60-2GB, Black)
+[2026-09-12 22:17:17.926]   result[9] = Samsung H28 236 Litres 2 Star Frost Free Double Door Refrigerator with All Around Cooling (RT40H28W2PNL, Elegant Inox) (2026 Model)
+[2026-09-12 22:17:17.936] TS-01 relevance: 10/10 titles matched.
+[2026-09-12 22:17:17.941] ===== END TEST: testSearchReturnsRelevantResults (PASSED) =====

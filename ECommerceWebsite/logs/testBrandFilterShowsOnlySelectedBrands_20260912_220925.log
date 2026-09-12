@@ -1,0 +1,9 @@
+[2026-09-12 22:09:25.265] ===== START TEST: testBrandFilterShowsOnlySelectedBrands =====
+[2026-09-12 22:09:42.128] Dismissed popup via selector: .MuiDialog-container .icon.icon-close
+[2026-09-12 22:10:03.495] Screenshot captured: screenshots\TS02_before_brand_filter_20260912_221003.png
+[2026-09-12 22:10:33.876] TS-02 applied brand filter: Samsung
+[2026-09-12 22:11:04.355] TS-02 applied brand filter: LG
+[2026-09-12 22:11:34.770] TS-02 applied brand filter: Whirlpool
+[2026-09-12 22:11:35.056] Screenshot captured: screenshots\TS02_after_brand_filter_20260912_221135.png
+[2026-09-12 22:11:35.524] TS-02 verified 21 products all belong to the selected brands.
+[2026-09-12 22:11:35.526] ===== END TEST: testBrandFilterShowsOnlySelectedBrands (PASSED) =====

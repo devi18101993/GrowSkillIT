@@ -1,0 +1,7 @@
+[2026-09-12 22:17:19.697] ===== START TEST: testProductsSortedByDiscountDescending =====
+[2026-09-12 22:17:36.658] Dismissed popup via selector: .MuiDialog-container .icon.icon-close
+[2026-09-12 22:18:59.061] TS-03 applied 'Discount' sort.
+[2026-09-12 22:18:59.301] Screenshot captured: screenshots\TS03_sorted_by_discount_20260912_221859.png
+[2026-09-12 22:20:09.977] TS-03 discount sequence: [64.0, 64.0, 60.0, 44.0, 48.0, 46.0, 45.0, 44.0, 43.0, 41.0, 41.0, 41.0, 40.0, 35.0]
+[2026-09-12 22:20:09.980] TS-03 verified 14 products trend in descending discount order.
+[2026-09-12 22:20:09.988] ===== END TEST: testProductsSortedByDiscountDescending (PASSED) =====

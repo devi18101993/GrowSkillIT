@@ -1,0 +1,7 @@
+[2026-09-12 22:05:53.774] ===== START TEST: testAddProductToCart =====
+[2026-09-12 22:06:11.003] Dismissed popup via selector: .MuiDialog-container .icon.icon-close
+[2026-09-12 22:06:36.178] Add-to-cart product: Croma 84 Litres 2 Star Direct Cool Single Door Refrigerator with Anti Fungal Gasket (Grey)
+[2026-09-12 22:07:09.896] Screenshot captured: screenshots\ADD2CART_added_20260912_220709.png
+[2026-09-12 22:07:41.312] Screenshot captured: screenshots\ADD2CART_cart_20260912_220741.png
+[2026-09-12 22:07:41.569] Add-to-cart verified: cart contains 1 item(s).
+[2026-09-12 22:07:41.575] ===== END TEST: testAddProductToCart (PASSED) =====

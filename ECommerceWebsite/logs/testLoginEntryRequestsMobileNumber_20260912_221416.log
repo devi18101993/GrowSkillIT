@@ -1,0 +1,5 @@
+[2026-09-12 22:14:16.007] ===== START TEST: testLoginEntryRequestsMobileNumber =====
+[2026-09-12 22:14:33.254] Dismissed popup via selector: .MuiDialog-container .icon.icon-close
+[2026-09-12 22:15:24.657] Screenshot captured: screenshots\LOGIN_mobile_prompt_20260912_221524.png
+[2026-09-12 22:15:24.657] Login entry point verified: mobile-number field is shown.
+[2026-09-12 22:15:24.659] ===== END TEST: testLoginEntryRequestsMobileNumber (PASSED) =====

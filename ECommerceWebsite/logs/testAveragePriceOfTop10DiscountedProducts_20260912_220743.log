@@ -1,0 +1,16 @@
+[2026-09-12 22:07:43.498] ===== START TEST: testAveragePriceOfTop10DiscountedProducts =====
+[2026-09-12 22:08:00.418] Dismissed popup via selector: .MuiDialog-container .icon.icon-close
+[2026-09-12 22:09:22.564] TS-04 applied 'Discount' sort.
+[2026-09-12 22:09:22.963] Screenshot captured: screenshots\TS04_top_discounted_20260912_220922.png
+[2026-09-12 22:09:23.107]   product[0] price = 8990.0
+[2026-09-12 22:09:23.127]   product[1] price = 8990.0
+[2026-09-12 22:09:23.149]   product[2] price = 39990.0
+[2026-09-12 22:09:23.172]   product[3] price = 33190.0
+[2026-09-12 22:09:23.196]   product[4] price = 30994.0
+[2026-09-12 22:09:23.284]   product[5] price = 31494.0
+[2026-09-12 22:09:23.355]   product[6] price = 32994.0
+[2026-09-12 22:09:23.379]   product[7] price = 148990.0
+[2026-09-12 22:09:23.402]   product[8] price = 82490.0
+[2026-09-12 22:09:23.424]   product[9] price = 34990.0
+[2026-09-12 22:09:23.428] TS-04 average price of top 10 discounted products = 45311.20 (n=10)
+[2026-09-12 22:09:23.437] ===== END TEST: testAveragePriceOfTop10DiscountedProducts (PASSED) =====
